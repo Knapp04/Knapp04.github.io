@@ -12,16 +12,16 @@ about:
       href: https://linkedin.com
     - icon: instagram
       text: Instagram
-      href: https://instagram.com
+      href: https://instagram.com/jake_knapp
     - icon: github
       text: GitHub
       href: https://github.com
     - icon: file-earmark-pdf
       text: Resumé
-      href: https://GITHUB_USERNAME.github.io/resume-example.pdf
+      href: https://knapp04.github.io/resume-example.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:jtk6@geneseo.edu
 
 ---
 
