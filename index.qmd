@@ -12,10 +12,10 @@ about:
       href: https://linkedin.com
     - icon: instagram
       text: Instagram
-      href: https://instagram.com/jake_knapp
+      href: https://instagram.com/jake_knapp_
     - icon: github
       text: GitHub
-      href: https://github.com
+      href: https://https://knapp04.github.io/
     - icon: file-earmark-pdf
       text: Resumé
       href: https://knapp04.github.io/resume-example.pdf
