@@ -1,9 +1,10 @@
+
 project:
   type: website
   output-dir: "."
 
 website:
-  title: "YOUR NAME"
+  title: "Jacob Knapp"
   navbar:
     pinned: true
     left:
@@ -12,16 +13,18 @@ website:
       - text: Blog
         href: blog-listing.qmd
   page-footer: 
-    center: "Powered with GitHub and Quarto<br>© YOUR NAME, 2023"
+    center: "Powered with GitHub and Quarto<br>© Jacob Knapp, 2023"
 
 format:
   html:
     theme: 
-      light: flatly
+      light: quartz
       dark: darkly
     mainfont: system-ui; 
     highlight-style: atom-one
     css: styles.css
     toc: false
     include-after-body: target_blank.html
+    
+
     

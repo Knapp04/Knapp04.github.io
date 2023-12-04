@@ -3,6 +3,7 @@
     "listing": "/blog-listing.html",
     "items": [
       "/posts/beer-markets/beer-markets.html",
+      "/posts/starwars.qmd/starwars_df.html",
       "/posts/starwars/starwars_df.html",
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
