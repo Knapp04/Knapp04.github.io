@@ -1,3 +1,15 @@
+---
+title: "nyc resturant"
+author: "Jacob Knapp" 
+date: "2023-12-10"
+catergories: [resturant, code, analysis]
+image: resturantimage.png
+from: markdown+emoji
+---
+
+
+
+
 ```{r setup}
 #| include: false
 library(tidyverse)
