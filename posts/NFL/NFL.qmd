@@ -1,0 +1,56 @@
+---
+title: "NFL"
+author: "Jacob Knapp" 
+date: "2023-12-10"
+catergories: [NFL, code, analysis]
+image: nflimage.png
+from: markdown+emoji
+---
+```{r setup}
+#| include: false
+library(tidyverse)
+library(skimr)
+library(ggthemes)
+library(hrbrthemes)
+
+theme_set(theme_ipsum()+
+          theme(strip.background =element_rect(fill="lightgray"),
+                axis.title.x = 
+                  element_text(angle = 0,
+                               size = rel(1.33),
+                               margin = margin(10,0,0,0)),
+                axis.title.y = 
+                  element_text(angle = 0,
+                               size = rel(1.33),
+                               margin = margin(0,10,0,0))
+                )
+          )
+```
+
+# NFL
+# data frame
+```{r}
+# Loading R packages ------------------------------------------------------
+
+library(tidyverse)
+library(skimr)
+
+```
+
+#Q2a
+```{r}
+
+```
+
+#Q2b
+```{r}
+
+```
+
+#Q2c
+```{r}
+
+```
+
+
+
