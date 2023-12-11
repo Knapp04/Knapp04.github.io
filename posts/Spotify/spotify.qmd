@@ -1,3 +1,12 @@
+---
+title: "Spotify"
+author: "Jacob Knapp" 
+date: "2023-12-10"
+catergories: [Spotify, code, analysis]
+image: spotifyimage.png
+from: markdown+emoji
+---
+
 ```{r setup}
 #| include: false
 library(tidyverse)
