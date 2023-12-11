@@ -12,8 +12,7 @@ website:
         href: project.qmd
       - text: Blog
         href: blog-listing.qmd
-      - text: Homework
-        href: danl200-hw5-Knapp-Jacob.qmd 
+
   page-footer: 
     center: "Powered with GitHub and Quarto<br>© Jacob Knapp, 2023"
 
