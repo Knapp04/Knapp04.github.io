@@ -1,10 +1,10 @@
 ---
 title: "Jacob Knapp"
-about:
+about: 
   template: trestles  # jolla  trestles  solana  marquee  broadside
-  image: img/profile.png
+  image: profilepic.png
   image-width: 15em
-  image-shape: round # rectangle  round  rounded
+  image-shape: rectangle # rectangle roud rounded
   
   links:
     - icon: linkedin
